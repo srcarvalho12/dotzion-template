@@ -1,4 +1,4 @@
-# app01
+# dotzion-template
 
 To install dependencies:
 
