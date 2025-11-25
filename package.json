@@ -1,0 +1,25 @@
+{
+  "name": "app01",
+  "module": "./src/index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/react": "^19.2.7",
+    "@types/react-dom": "^19.2.3"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "scripts": {
+    "dev": "bun run --watch ./src/index.ts",
+    "build:prod": "bun build ./src/index.ts --compile --minify --outfile app"
+  },
+  "dependencies": {
+    "@ionic/react": "^8.7.10",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "react-router-dom": "^7.9.6",
+    "zustand": "^5.0.8"
+  }
+}
