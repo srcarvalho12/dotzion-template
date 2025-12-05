@@ -9,17 +9,17 @@
     "@types/react-dom": "^19.2.3"
   },
   "peerDependencies": {
-    "typescript": "^5"
+    "typescript": "^5.9.3"
   },
   "scripts": {
     "dev": "bun run --watch ./src/index.ts",
     "build:prod": "bun build ./src/index.ts --compile --minify --outfile app"
   },
   "dependencies": {
-    "@ionic/react": "^8.7.10",
-    "react": "^19.2.0",
-    "react-dom": "^19.2.0",
-    "react-router-dom": "^7.9.6",
-    "zustand": "^5.0.8"
+    "@ionic/react": "^8.7.11",
+    "react": "^19.2.1",
+    "react-dom": "^19.2.1",
+    "react-router-dom": "^7.10.1",
+    "zustand": "^5.0.9"
   }
 }
