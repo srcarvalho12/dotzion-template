@@ -4,4 +4,4 @@ export const HELLO_MESSAGE = API_PREFIX + "/hello";
 
 // ROTAS PARA FRONTEND
 export const FRONTEND_ROUTE = "/*";
-export const LOGIN_ROUTE = "/login";
+export const LOGIN_ROUTE = "/";
