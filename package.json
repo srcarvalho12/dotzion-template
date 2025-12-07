@@ -17,10 +17,10 @@
   },
   "dependencies": {
     "bun-plugin-tailwind": "^0.1.2",
-    "react": "^19.2.0",
-    "react-dom": "^19.2.0",
-    "react-router-dom": "^7.9.6",
+    "react": "^19.2.1",
+    "react-dom": "^19.2.1",
+    "react-router-dom": "^7.10.1",
     "tailwindcss": "^4.1.17",
-    "zustand": "^5.0.8"
+    "zustand": "^5.0.9"
   }
 }

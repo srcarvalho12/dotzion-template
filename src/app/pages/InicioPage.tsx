@@ -28,7 +28,7 @@ export const InicioPage = () => {
                 </div>
 
 
-                <h1 className="text-3xl font-semibold tracking-tight">dotzion template</h1>
+                <h1 className="text-3xl font-semibold tracking-tight">dotZion Template</h1>
                 <p className="text-sm text-white/70">bun + react — setup minimal, rápido e pronto para escalar</p>
 
 
