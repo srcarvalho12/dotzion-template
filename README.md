@@ -1,15 +1,55 @@
-# dotzion-template
+# dotzion template
 
-To install dependencies:
+Um template minimalista e moderno usando **Bun**, **ReactJS** e **Zustand**, pensado para quem quer começar rápido e com uma base sólida.
 
-```bash
-bun install
+## 🚀 Tecnologias incluídas
+
+* **Bun** (ultrarrápido, simples e moderno)
+* **ReactJS**
+* **Zustand** para gerenciamento de estado global
+* **TailwindCSS**
+* Estrutura limpa, pronta para escalar
+
+---
+
+## 📦 Como criar um novo projeto
+
+Você pode gerar um projeto novo diretamente a partir deste template usando o Bun:
+
+```sh
+bun create https://github.com/srcarvalho12/dotzion-template MyApp
 ```
 
-To run:
+> Substitua `MyApp` pelo nome do seu projeto.
 
-```bash
-bun run index.ts
+---
+
+## ▶️ Como rodar o projeto
+
+Após criar o projeto, entre na pasta e execute:
+
+```sh
+bun run dev
 ```
 
-This project was created using `bun init` in bun v1.3.3. [Bun](https://bun.com) is a fast all-in-one JavaScript runtime.
+O servidor local será iniciado e sua aplicação estará pronta para desenvolvimento.
+
+---
+
+## 🛠 Requisitos
+
+* **Bun** instalado — caso não tenha:
+
+```sh
+curl -fsSL https://bun.sh/install | bash
+```
+
+---
+
+## 📄 Licença
+
+Projeto distribuído sob a licença MIT.
+
+---
+
+Feito com carinho pela **dotzion** 🜁
