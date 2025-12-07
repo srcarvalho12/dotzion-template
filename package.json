@@ -17,12 +17,15 @@
   },
   "dependencies": {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     "@ionic/react": "^8.7.11",
     "react": "^19.2.1",
     "react-dom": "^19.2.1",
     "react-router-dom": "^7.10.1",
     "zustand": "^5.0.9"
 =======
+=======
+>>>>>>> Stashed changes
     "bun-plugin-tailwind": "^0.1.2",
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
